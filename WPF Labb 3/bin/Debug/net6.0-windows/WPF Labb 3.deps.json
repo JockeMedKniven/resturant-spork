@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WPF Labb 3/1.0.0": {
+        "runtime": {
+          "WPF Labb 3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WPF Labb 3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
